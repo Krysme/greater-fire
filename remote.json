@@ -1,0 +1,9 @@
+{
+    "password": "abcdef",
+    "remote_addr": "0.0.0.0",
+    "remote_port": 443,
+    "web_addr": "127.0.0.1",
+    "web_port": 80,
+    "pfx": "ssl/private.pfx",
+    "pfx_password": "Krysto2015"
+}

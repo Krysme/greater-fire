@@ -1,0 +1,3 @@
+control_brace_style = "AlwaysSameLine"
+brace_style = "AlwaysNextLine"
+match_block_trailing_comma = true

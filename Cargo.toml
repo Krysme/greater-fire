@@ -1,0 +1,20 @@
+[package]
+name = "greater-fire"
+version = "0.1.0"
+authors = ["Krys <blackshop.s.bossss@gmail.com>"]
+edition = "2018"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+async-std = "*"
+async-scoped = "*"
+futures = "*"
+enum-primitive-derive = "*"
+num-traits = "*"
+byteorder = "*"
+rustls = "*"
+async-native-tls = "*"
+native-tls = "*"
+
+serde = {version = "*", features = ["derive"]}
+serde_json = "*"
